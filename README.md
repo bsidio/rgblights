@@ -1,2 +1,4 @@
 # rgblights
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LXyipKAUpEs" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/LXyipKAUpEs/0.jpg)](https://www.youtube.com/watch?v=LXyipKAUpEs)
